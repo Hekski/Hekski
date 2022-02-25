@@ -30,8 +30,8 @@
 
 <h4>Languages</h4>
 <p>
-  <img align="left" src="https://img.shields.io/badge/HTML-1c1c1c?&style=flat-square&logo=HTML" />
-  <img align="left" src="https://img.shields.io/badge/CSS-1c1c1c?&style=flat-square&logo=CSS" />
+  <img align="left" src="https://img.shields.io/badge/HTML-1c1c1c?&style=flat-square&logo=Html" />
+  <img align="left" src="https://img.shields.io/badge/CSS-1c1c1c?&style=flat-square&logo=Css" />
   <img align="left" src="https://img.shields.io/badge/JavaScript-1c1c1c?&style=flat-square&logo=JavaScript" />
   <!---
   <img align="left" src="https://img.shields.io/badge/TypeScript-1c1c1c?&style=flat-square&logo=TypeScript" />
