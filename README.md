@@ -22,7 +22,6 @@
 
 <p>These are some of the languages, tools and frameworks that I am using during my studies.</p>
 
-<h4>Languages im learning</h4>
 <p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hekski&&theme=github_dark&&hide=jupyter%20notebook,matlab)](https://github.com/anuraghazra/github-readme-stats)
