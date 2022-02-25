@@ -1,6 +1,6 @@
 ### Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<h3>I'm a student in Creative Fullstack Developement</h3>
+<h3>I'm an aspiring Creative Fullstack Developer, currently at School</h3>
 
 
 - 👋 Hi, I’m Henrik, a webdevelopement student at Chas Academy in Stockholm, Sweden.
@@ -25,7 +25,7 @@
 <h4>Languages im learning</h4>
 <p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoBomark&&theme=github_dark&&hide=jupyter%20notebook,matlab)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hekski&&theme=github_dark&&hide=jupyter%20notebook,matlab)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 <h4>Languages</h4>
