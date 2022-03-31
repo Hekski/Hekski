@@ -22,11 +22,6 @@
 
 <p>These are some of the languages, tools and frameworks that I am using during my studies.</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hekski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hekski&&theme=github_dark&&hide=jupyter%20notebook,matlab)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <h4>Languages</h4>
 <p>
   <img align="left" src="https://img.shields.io/badge/Html-1c1c1c?&style=flat-square&logo=Html5" />
@@ -67,6 +62,8 @@
   <img align="left" src="https://img.shields.io/badge/MacOs-000000?&style=for-the-badge&logo=Apple&logoColor=white" />
   <img align="left" src="https://img.shields.io/badge/Windows-00979D?&style=for-the-badge&logo=Windows&logoColor=white" />
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hekski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/><br/>
 
