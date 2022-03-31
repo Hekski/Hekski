@@ -43,10 +43,11 @@
 <h4>UI Libraries & Frameworks</h4>
 <p>
   <img align="left" src="https://img.shields.io/badge/React-1c1c1c?&style=flat-square&logo=React" />
+  <img align="left" src="https://img.shields.io/badge/Angular-1c1c1c?&style=flat-square&logo=Angular" />
   <!---
   <img align="left" src="https://img.shields.io/badge/Next-1c1c1c?&style=flat-square&logo=Next.js" />
   <img align="left" src="https://img.shields.io/badge/Gatsby-1c1c1c?&style=flat-square&logo=Gatsby" />
-  <img align="left" src="https://img.shields.io/badge/Angular-1c1c1c?&style=flat-square&logo=Angular" />
+  
   <img align="left" src="https://img.shields.io/badge/React Native-1c1c1c?&style=flat-square&logo=React" />
   --->
   <img align="left" src="https://img.shields.io/badge/Laravel-1c1c1c?&style=flat-square&logo=Laravel" />
