@@ -1,6 +1,6 @@
 ### Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<h3>I'm an aspiring Creative Fullstack Developer, currently at School</h3>
+<h3>I'm an aspiring Creative Fullstack Developer</h3>
 
 
 - 👋 Hi, I’m Henrik, a webdevelopement student at Chas Academy in Stockholm, Sweden.
