@@ -4,8 +4,8 @@
 
 
 - 👋 Hi, I’m Henrik, a webdevelopement student at Chas Academy in Stockholm, Sweden.
-- 👀 I’m interested in graphics, webdevelopment, music and synthesizers.
-- 🌱 I’m currently learning Laravel, React and Javascript.
+- 👀 I’m interested in webdevelopment, synthesizers and riding mountain bikes.
+- 🌱 I’m currently learning Laravel, React and Angular.
 - 📫 How to reach me > henrik.berglund@gmail.com
 
 
