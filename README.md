@@ -18,6 +18,8 @@
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hekski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Tools im learning
 
 <p>These are some of the languages, tools and frameworks that I am using during my studies.</p>
@@ -63,7 +65,7 @@
   <img align="left" src="https://img.shields.io/badge/Windows-00979D?&style=for-the-badge&logo=Windows&logoColor=white" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hekski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br/><br/>
 
