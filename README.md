@@ -13,10 +13,10 @@
 - Mongoose
 - MongoDB
 
-📫 How to reach me > henrik.berglund@gmail.com
+📫 Send me an email > henrik.berglund@gmail.com
 
 
-#### Connect with me
+#### Or connect with me via:
 
 <a href="https://www.linkedin.com/in/henrik-berglund-77109614/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
 <a href="mailto:henrik.berglund@hotmail.com"><img align="left" src="https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
