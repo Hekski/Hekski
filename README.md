@@ -1,4 +1,4 @@
-### Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">
+### Hi!
 
 <h3>I'm an aspiring Creative Fullstack Developer</h3>
 
