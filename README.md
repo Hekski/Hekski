@@ -5,7 +5,7 @@
 <h3>Right now 👀</h3>
 <p>I’m studying webdevelopement at <b>Chas Academy in Stockholm, Sweden</b>. I’m interested in webdevelopment, synthesizers and riding mountain bikes.</p>
 
-🌱 I’m currently learning: 
+🌱 I’m currently learning the MERN stack: 
 - React
 - Node
 - Express
