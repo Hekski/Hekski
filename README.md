@@ -2,9 +2,8 @@
 
 <h3>I'm Henrik, an aspiring Creative Fullstack Developer</h3>
 
-<p>👀Right now im studying webdevelopement at Chas Academy in Stockholm, Sweden.</p>
-
-<p>I’m interested in webdevelopment, synthesizers and riding mountain bikes.</p>
+<h3>Right now 👀</h3>
+<p>I’m studying webdevelopement at Chas Academy in Stockholm, Sweden. I’m interested in webdevelopment, synthesizers and riding mountain bikes.</p>
 
 🌱 I’m currently learning: 
 - React
@@ -13,13 +12,11 @@
 - Mongoose
 - MongoDB
 
-📫 Send me an email > henrik.berglund@gmail.com
 
-
-#### Or connect with me via:
+#### 📫 Connect with me via:
 
 <a href="https://www.linkedin.com/in/henrik-berglund-77109614/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
-<a href="mailto:henrik.berglund@hotmail.com"><img align="left" src="https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+/* <a href="mailto:henrik.berglund@hotmail.com"><img align="left" src="https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 
 <br/><br/>
 
