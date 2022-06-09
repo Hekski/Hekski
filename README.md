@@ -1,11 +1,18 @@
-### Hi!
+### Hi! 👋
 
-<h3>I'm an aspiring Creative Fullstack Developer</h3>
+<h3>I'm Henrik, an aspiring Creative Fullstack Developer</h3>
 
+<p>👀Right now im studying webdevelopement at Chas Academy in Stockholm, Sweden.</p>
 
-👋 Hi, I’m Henrik, a webdevelopement student at Chas Academy in Stockholm, Sweden.
-👀 I’m interested in webdevelopment, synthesizers and riding mountain bikes.
-🌱 I’m currently learning React, Node, Express and MongoDB.
+<p>I’m interested in webdevelopment, synthesizers and riding mountain bikes.</p>
+
+🌱 I’m currently learning: 
+- React
+- Node
+- Express
+- Mongoose
+- MongoDB
+
 📫 How to reach me > henrik.berglund@gmail.com
 
 
