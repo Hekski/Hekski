@@ -3,7 +3,7 @@
 <h3>I'm Henrik, an aspiring Creative Fullstack Developer</h3>
 
 <h3>Right now 👀</h3>
-<p>I’m studying webdevelopement at Chas Academy in Stockholm, Sweden. I’m interested in webdevelopment, synthesizers and riding mountain bikes.</p>
+<p>I’m studying webdevelopement at <b>Chas Academy in Stockholm, Sweden</b>. I’m interested in webdevelopment, synthesizers and riding mountain bikes.</p>
 
 🌱 I’m currently learning: 
 - React
@@ -33,9 +33,7 @@
   <img align="left" src="https://img.shields.io/badge/Html-1c1c1c?&style=flat-square&logo=Html5" />
   <img align="left" src="https://img.shields.io/badge/Css-1c1c1c?&style=flat-square&logo=Css3" />
   <img align="left" src="https://img.shields.io/badge/JavaScript-1c1c1c?&style=flat-square&logo=JavaScript" />
-  <!---
   <img align="left" src="https://img.shields.io/badge/TypeScript-1c1c1c?&style=flat-square&logo=TypeScript" />
-  --->
   <img align="left" src="https://img.shields.io/badge/PHP-1c1c1c?&style=flat-square&logo=PHP" />
 </p>
   
@@ -48,8 +46,6 @@
   <!---
   <img align="left" src="https://img.shields.io/badge/Next-1c1c1c?&style=flat-square&logo=Next.js" />
   <img align="left" src="https://img.shields.io/badge/Gatsby-1c1c1c?&style=flat-square&logo=Gatsby" />
-  
-  <img align="left" src="https://img.shields.io/badge/React Native-1c1c1c?&style=flat-square&logo=React" />
   --->
   <img align="left" src="https://img.shields.io/badge/Laravel-1c1c1c?&style=flat-square&logo=Laravel" />
 </p>
