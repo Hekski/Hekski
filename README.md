@@ -1,6 +1,4 @@
-### 👋 Hi I'm Henrik!
-
-... an aspiring Creative Fullstack Developer
+### 👋 Hi I'm Henrik! ... an aspiring Creative Fullstack Developer
 
 <p>I’m currently studying webdevelopement at <b>Chas Academy in Stockholm, Sweden</b>. I’m interested in webdevelopment/coding, synthesizers and riding mountain bikes.</p>
 
