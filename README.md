@@ -1,9 +1,12 @@
-### 👋 Hi I'm Henrik! ... an aspiring Creative Fullstack Developer
+### 👋 Hi I'm Henrik!
 
-<p>I’m interested in webdevelopment/coding, synthesizers and riding mountain bikes.</p>
+... an aspiring Creative Fullstack Developer
 
-<h3>Right now 👀</h3>
-<p>I’m studying webdevelopement at <b>Chas Academy in Stockholm, Sweden</b>. 
+<p>I’m currently studying webdevelopement at <b>Chas Academy in Stockholm, Sweden</b>. I’m interested in webdevelopment/coding, synthesizers and riding mountain bikes.</p>
+
+<h3>I’m also looking for an intership(LIA) for Octopber 2022!</h3>
+
+<h4>Right now 👀</h4>
 
 🌱 I’m currently learning the MERN stack: 
 - React
@@ -11,8 +14,6 @@
 - Express
 - Mongoose
 - MongoDB
-
-<h3>I’m also looking for an intership(LIA) for Octopber 2022!</h3>
 
 #### 📫 So connect with me via:
 
