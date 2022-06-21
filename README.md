@@ -6,9 +6,9 @@
 
 <h3>I’m also looking for an intership(LIA) for Octopber 2022!</h3>
 
-<h4>Right now  👀</h4>
+<h4>🌱 Learning Right Now:</h4>
 
-🌱 I’m currently learning the MERN stack: 
+ I’m currently learning the MERN stack: 
 - React
 - Node
 - Express
