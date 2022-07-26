@@ -49,7 +49,7 @@
   <img align="left" src="https://img.shields.io/badge/Next-1c1c1c?&style=flat-square&logo=Next.js" />
   <img align="left" src="https://img.shields.io/badge/Gatsby-1c1c1c?&style=flat-square&logo=Gatsby" />
   --->
-  <img align="left" src="https://img.shields.io/badge/Laravel-1c1c1c?&style=flat-square&logo=Laravel" />
+  <img align="left" src="https://img.shields.io/badge/Next-1c1c1c?&style=flat-square&logo=Next" />
 </p>
   
 <br/><br/>
