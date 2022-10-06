@@ -8,19 +8,9 @@ Want to know more about me? [Check out my portfolio.](https://hekskjipro.netlify
 
 <h3>I’m also looking for an intership(LIA) for November 2022!</h3>
 
-#### 📫 So connect with me via:
-
 <a href="https://www.linkedin.com/in/henrik-berglund-77109614/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
 <a href="mailto:henrik.berglund@hotmail.com"><img align="left" src="https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hekski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### Tools im learning
-
-<p>These are some of the languages, tools and frameworks that I am using during my studies.</p>
 
 ## `💪🏻` Skills
 
