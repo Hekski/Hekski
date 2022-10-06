@@ -4,12 +4,13 @@ I’m Henrik, a Full Stack Web Developer.
 
 Want to know more about me? [Check out my portfolio.](https://hekskjipro.netlify.app/)
 
-<p>🌱 I’m currently studying webdevelopement at <b>Chas Academy in Stockholm, Sweden</b>. I’m interested in webdevelopment/coding, synthesizers and riding mountain bikes.</p>
+🌱 I’m currently studying webdevelopement at <b>Chas Academy in Stockholm, Sweden</b>. 
 
-<h3>I’m also looking for an intership(LIA) for November 2022!</h3>
+I’m also looking for an intership(LIA) for November 2022!
 
-<a href="https://www.linkedin.com/in/henrik-berglund-77109614/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
-<a href="mailto:henrik.berglund@hotmail.com"><img align="left" src="https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0D76A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrik-berglund-77109614/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henrik.berglund@hotmail.com)
 
 
 ## `💪🏻` Skills
