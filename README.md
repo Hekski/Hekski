@@ -6,7 +6,7 @@ Want to know more about me? [Check out my portfolio.](https://hekskjipro.netlify
 
 🌱 I’m currently studying webdevelopement at <b>Chas Academy in Stockholm, Sweden</b>. 
 
-I’m also looking for an intership(LIA) for November 2022!
+Currently on intership(LIA)!
 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0D76A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrik-berglund-77109614/)
