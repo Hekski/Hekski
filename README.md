@@ -31,6 +31,11 @@ Currently on intership(LIA)!
 [![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)](https://sass-lang.com/)
 [![](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindui.com/)
 
+### DB
+
+[![](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mongodb.com/)
+[![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+
 ### Server Side Libraries & Frameworks and other tools
 
 [![](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
