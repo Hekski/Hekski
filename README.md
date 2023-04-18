@@ -22,13 +22,14 @@ Currently on intership(LIA)!
 [![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![](https://img.shields.io/badge/Next-FFF?style=for-the-badge&logo=nextdotjs&logoColor=000000)](https://nextjs.org/)
 [![](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)](https://redux.js.org/)
-[![](https://img.shields.io/badge/Ableton-764ABC?style=for-the-badge&logo=abletonlive&logoColor=white)](https://redux.js.org/)
+[![](https://img.shields.io/badge/Ableton-764ABC?style=for-the-badge&logo=abletonlive&logoColor=white)](https://ableton.com/)
   
 ### Style
 
 [![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 [![](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com/)
 [![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)](https://sass-lang.com/)
+[![](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindui.com/)
 
 ### Server Side Libraries & Frameworks and other tools
 
