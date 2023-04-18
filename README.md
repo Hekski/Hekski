@@ -22,7 +22,7 @@ Currently on intership(LIA)!
 [![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![](https://img.shields.io/badge/Next-FFF?style=for-the-badge&logo=nextdotjs&logoColor=000000)](https://nextjs.org/)
 [![](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)](https://redux.js.org/)
-[![](https://img.shields.io/badge/Ableton-764ABC?style=for-the-badge&logo=abletonlive&logoColor=white)](https://ableton.com/)
+[![](https://img.shields.io/badge/Ableton-000000?style=for-the-badge&logo=abletonlive&logoColor=white)](https://ableton.com/)
   
 ### Style
 
