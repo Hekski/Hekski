@@ -20,7 +20,7 @@ Currently on intership(LIA)!
 [![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
 [![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![](https://img.shields.io/badge/Next-20232A?style=for-the-badge&logo=nextdotjs&logoColor=000000)](https://nextjs.org/)
+[![](https://img.shields.io/badge/Next-FFF?style=for-the-badge&logo=nextdotjs&logoColor=000000)](https://nextjs.org/)
 [![](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)](https://redux.js.org/)
   
 ### Style
