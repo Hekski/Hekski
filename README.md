@@ -7,8 +7,8 @@ Want to know more about me? [Check out my portfolio.](https://hekskjipro.netlify
 I’m currently focusing on:
 
 🌱 Next 13  
-🌱 Vanilla JS
-🌱 CMS like Contentful
+🌱 Vanilla JS  
+🌱 CMS like Contentful  
 🌱 Server as a service solutions
 
 
