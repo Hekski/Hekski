@@ -1,12 +1,15 @@
 ## `👋` Hello, there! 
 
-I’m Henrik, a Full Stack Web Developer.
+I’m Henrik, a Full Stack Web Developer. Graduated 2023 from Chas Academy in Stockholm, Sweden. Currently on parental leave but im trying to do some projects until 2024 when its time to work more or less full-time.
 
 Want to know more about me? [Check out my portfolio.](https://hekskjipro.netlify.app/)
 
-🌱 I’m currently studying webdevelopement at <b>Chas Academy in Stockholm, Sweden</b>. 
+I’m currently focusing on:
 
-Currently on intership(LIA)!
+🌱 Next 13
+🌱 Vanilla JS
+🌱 CMS like Contentful
+🌱 Server as a service solutions
 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0D76A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrik-berglund-77109614/)
