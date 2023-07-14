@@ -6,10 +6,12 @@ Want to know more about me? [Check out my portfolio.](https://hekskjipro.netlify
 
 I’m currently focusing on:
 
--🌱 Next 13
--🌱 Vanilla JS
--🌱 CMS like Contentful
--🌱 Server as a service solutions
+|   |   |   |
+|---|---|---|
+| 🌱 |   | Next 13  |
+| 🌱 |   | Vanilla JS  |
+| 🌱 |   | CMS like Contentful  |
+| 🌱 |   |  Server as a service solutions |
 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0D76A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrik-berglund-77109614/)
